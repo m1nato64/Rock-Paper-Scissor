@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor
+# Rock-Paper-Scissor history
 1 page web-game Rock-Paper-Scissor
 
 I received a challenge from a friend: to develop a web game 'Rock-Paper-Scissors' in 1 hour. 
