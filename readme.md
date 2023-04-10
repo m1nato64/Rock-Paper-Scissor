@@ -1,7 +1,7 @@
 # Rock-Paper-Scissor history
 1 page web-game Rock-Paper-Scissor
 
-I received a challenge from a friend: to develop a web game 'Rock-Paper-Scissors' in 1 hour. 
+I received a challenge from my friend: develop a web-game 'Rock-Paper-Scissors' in 1 hour. 
 The dispute was for $20. As a result, I finished it in 41 minutes :) 
 The easiest money in my life :D
 
